@@ -412,4 +412,10 @@ function startServer(port: number) {
   });
 }
 
-startServer(port);
+// Only start server locally, not in Vercel production
+if (process.env.NODE_ENV !== 'production') {
+  startServer(port);
+}
+
+// Export for Vercel serverless functions
+export default app;
