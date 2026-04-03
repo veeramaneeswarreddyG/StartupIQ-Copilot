@@ -104,7 +104,9 @@ app.use(express.json());
 // Serve favicon
 app.get('/favicon.ico', (req, res) => res.status(204).end());
 
-dotenv.config({ path: ".env.local" });
+if (process.env.NODE_ENV !== 'production') {
+  dotenv.config({ path: ".env.local" });
+}
 
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 console.log('GEMINI_API_KEY loaded:', !!GEMINI_API_KEY);
