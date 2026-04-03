@@ -1,3 +1,3 @@
 // api/index.js
-import app from '../server/index.js'; // Ensure this path is correct
-export default app;
+const app = require('../server/index.js');
+module.exports = app;
