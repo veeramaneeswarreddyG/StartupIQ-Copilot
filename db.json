@@ -1,0 +1,1281 @@
+{
+  "users": [
+    {
+      "user_id": "user_1775192675715",
+      "email": "varshinig8074@gmail.com",
+      "password": "buddi@07",
+      "chats": [
+        {
+          "chat_id": "chat_xquxpp0j_1775192710693",
+          "title": "Description: An AI",
+          "type": "analysis",
+          "created_at": "2026-04-03T05:05:10.692Z",
+          "updated_at": "2026-04-03T05:05:11.023Z",
+          "messages": [
+            {
+              "role": "user",
+              "content": "Description: An AI app that generates startup ideas for users automatically.  Target Users: Aspiring entrepreneurs.  Problem: People struggle to find ideas.  Solution: AI idea generator.",
+              "timestamp": "2026-04-03T05:05:10.964Z"
+            },
+            {
+              "role": "assistant",
+              "content": "{\"idea_summary\":\"An AI-powered generator that provides curated, trend-aligned startup concepts for aspiring founders.\",\"viability_score\":68,\"market_demand\":\"High\",\"risk_level\":\"Medium\",\"scalability\":\"High\",\"monetization_potential\":\"Medium\",\"swot_analysis\":{\"strengths\":[\"Low overhead\",\"Fast deployment\",\"Infinite variety\"],\"weaknesses\":[\"Low barrier to entry\",\"Quality consistency\",\"Execution gap\"],\"opportunities\":[\"Niche generation\",\"Accelerator partnerships\",\"Investor matching\"],\"threats\":[\"Free LLM tools\",\"Market saturation\",\"Copycat apps\"]},\"target_audience\":[\"Aspiring solo-founders\",\"University students\",\"Product managers\",\"Indie hackers\"],\"market_insight\":\"The 'shovels for the gold rush' model is booming; founders are seeking speed over novelty in saturated markets.\",\"competitor_insight\":\"Direct competition from free AI tools like ChatGPT requires a focus on niche validation and high-fidelity output.\",\"revenue_model\":[\"Monthly subscription\",\"Premium validation reports\",\"Affiliate referral for tools\"],\"key_risks\":[\"Ideas are cheap; execution is the real hurdle.\",\"User retention might be low once an idea is chosen.\",\"Output genericness.\"],\"improvement_suggestions\":[\"Integrate real-time market data\",\"Add a 'Build-it' roadmap feature\",\"Include competitor analysis for each idea\"],\"improved_idea\":\"An AI Venture Architect that doesn't just generate ideas, but provides a full validation package including competitor scans and MVP roadmaps.\",\"final_verdict\":\"A solid entry-level product, but needs unique data layers to survive against generic AI chat tools.\"}",
+              "timestamp": "2026-04-03T05:05:11.023Z"
+            }
+          ],
+          "last_analysis_result": {
+            "idea_summary": "An AI-powered generator that provides curated, trend-aligned startup concepts for aspiring founders.",
+            "viability_score": 68,
+            "market_demand": "High",
+            "risk_level": "Medium",
+            "scalability": "High",
+            "monetization_potential": "Medium",
+            "swot_analysis": {
+              "strengths": [
+                "Low overhead",
+                "Fast deployment",
+                "Infinite variety"
+              ],
+              "weaknesses": [
+                "Low barrier to entry",
+                "Quality consistency",
+                "Execution gap"
+              ],
+              "opportunities": [
+                "Niche generation",
+                "Accelerator partnerships",
+                "Investor matching"
+              ],
+              "threats": [
+                "Free LLM tools",
+                "Market saturation",
+                "Copycat apps"
+              ]
+            },
+            "target_audience": [
+              "Aspiring solo-founders",
+              "University students",
+              "Product managers",
+              "Indie hackers"
+            ],
+            "market_insight": "The 'shovels for the gold rush' model is booming; founders are seeking speed over novelty in saturated markets.",
+            "competitor_insight": "Direct competition from free AI tools like ChatGPT requires a focus on niche validation and high-fidelity output.",
+            "revenue_model": [
+              "Monthly subscription",
+              "Premium validation reports",
+              "Affiliate referral for tools"
+            ],
+            "key_risks": [
+              "Ideas are cheap; execution is the real hurdle.",
+              "User retention might be low once an idea is chosen.",
+              "Output genericness."
+            ],
+            "improvement_suggestions": [
+              "Integrate real-time market data",
+              "Add a 'Build-it' roadmap feature",
+              "Include competitor analysis for each idea"
+            ],
+            "improved_idea": "An AI Venture Architect that doesn't just generate ideas, but provides a full validation package including competitor scans and MVP roadmaps.",
+            "final_verdict": "A solid entry-level product, but needs unique data layers to survive against generic AI chat tools."
+          }
+        },
+        {
+          "chat_id": "chat_yjav4ksc_1775192739934",
+          "title": "A direct-to-consumer digital m...",
+          "type": "analysis",
+          "created_at": "2026-04-03T05:05:39.934Z",
+          "updated_at": "2026-04-03T05:07:40.020Z",
+          "messages": [
+            {
+              "role": "user",
+              "content": "Target Users: Farmers and urban consumers.  Problem: Farmers earn less due to intermediaries.  Solution: Marketplace for direct selling.",
+              "timestamp": "2026-04-03T05:06:10.205Z"
+            },
+            {
+              "role": "assistant",
+              "content": "{\"idea_summary\":\"A direct-to-consumer digital marketplace connecting farmers with urban buyers to eliminate middlemen and increase profit margins.\",\"viability_score\":78,\"market_demand\":\"High\",\"risk_level\":\"High\",\"scalability\":\"Medium\",\"monetization_potential\":\"High\",\"swot_analysis\":{\"strengths\":[\"Higher margins for producers\",\"Competitive pricing for consumers\",\"Traceability and freshness\"],\"weaknesses\":[\"Logistics complexity\",\"Perishability management\",\"Fragmented supply chain\"],\"opportunities\":[\"Subscription box models\",\"Organic certification growth\",\"B2B restaurant partnerships\"],\"threats\":[\"Quick-commerce giants\",\"High fuel/delivery costs\",\"Seasonal supply volatility\"]},\"target_audience\":[\"Small to medium-scale farmers\",\"Health-conscious urban families\",\"Local farm-to-table restaurants\"],\"market_insight\":\"The farm-to-fork movement is accelerating as consumers demand transparency and are willing to pay for freshness.\",\"competitor_insight\":\"Existing grocery apps dominate on speed, but lack the emotional connection and transparency of direct-source platforms.\",\"revenue_model\":[\"Transaction commission (10-15%)\",\"Monthly consumer subscriptions\",\"Value-added logistics fees\"],\"key_risks\":[\"High cost of last-mile delivery\",\"Maintaining consistent food quality\",\"Farmer onboarding and digital literacy\"],\"improvement_suggestions\":[\"Implement community drop-off points\",\"Focus on high-margin organic goods\",\"Use AI for demand forecasting\"],\"improved_idea\":\"A subscription-based 'Farm-to-Hub' model where urban neighborhoods share a delivery point to slash logistics costs while guaranteeing farmer volume.\",\"final_verdict\":\"High potential if logistics are managed through community hubs rather than individual home deliveries to ensure sustainable unit economics.\"}",
+              "timestamp": "2026-04-03T05:06:10.461Z"
+            },
+            {
+              "role": "user",
+              "content": "Improve Idea",
+              "timestamp": "2026-04-03T05:06:24.962Z"
+            },
+            {
+              "role": "assistant",
+              "content": "Based on your analysis, here are key improvements: Implement community drop-off points, Focus on high-margin organic goods. Focus on these to boost your viability score.",
+              "timestamp": "2026-04-03T05:06:26.296Z"
+            },
+            {
+              "role": "user",
+              "content": "i rerfined the transparency in my idea with ,more accuracy",
+              "timestamp": "2026-04-03T05:07:39.759Z"
+            },
+            {
+              "role": "assistant",
+              "content": "{\"idea_summary\":\"A high-transparency marketplace connecting farmers directly to consumers, utilizing verifiable data and real-time tracking to ensure price fairness and source authenticity.\",\"viability_score\":82,\"market_demand\":\"High\",\"risk_level\":\"Medium\",\"scalability\":\"High\",\"monetization_potential\":\"High\",\"swot_analysis\":{\"strengths\":[\"Radical price transparency\",\"Enhanced consumer trust\",\"Real-time inventory accuracy\"],\"weaknesses\":[\"Complex data entry for farmers\",\"Higher technical overhead\",\"Premium pricing sensitivity\"],\"opportunities\":[\"Blockchain for traceability\",\"B2B ethical sourcing\",\"ESG data monetization\"],\"threats\":[\"Data privacy regulations\",\"Competitors with lower price points\",\"Connectivity issues in rural areas\"]},\"target_audience\":[\"Ethical urban consumers\",\"Farm-to-table restaurants\",\"Transparency-focused grocers\"],\"market_insight\":\"Consumers are 70% more likely to buy products when they can verify the exact origin and fair-pay status of the producer.\",\"competitor_insight\":\"Most aggregators hide margins; a 'Glass Box' model creates a significant brand moat against traditional retailers.\",\"revenue_model\":[\"Tiered verification fees\",\"Transaction commission\",\"Premium transparency dashboard access\"],\"key_risks\":[\"Farmer digital literacy barriers\",\"Maintaining data integrity\",\"Scaling verification processes\"],\"improvement_suggestions\":[\"Integrate QR codes for instant farm-to-phone history\",\"Automate data collection via IoT\",\"Implement community-led verification systems\"],\"improved_idea\":\"A 'Verified Origin' platform that uses IoT and QR tracking to provide consumers with a live feed of the farm, harvest date, and exact margin breakdown.\",\"final_verdict\":\"Strong market fit; success depends on making the high-accuracy transparency features easy for farmers to use without slowing down operations.\"}",
+              "timestamp": "2026-04-03T05:07:40.020Z"
+            }
+          ],
+          "last_analysis_result": {
+            "idea_summary": "A high-transparency marketplace connecting farmers directly to consumers, utilizing verifiable data and real-time tracking to ensure price fairness and source authenticity.",
+            "viability_score": 82,
+            "market_demand": "High",
+            "risk_level": "Medium",
+            "scalability": "High",
+            "monetization_potential": "High",
+            "swot_analysis": {
+              "strengths": [
+                "Radical price transparency",
+                "Enhanced consumer trust",
+                "Real-time inventory accuracy"
+              ],
+              "weaknesses": [
+                "Complex data entry for farmers",
+                "Higher technical overhead",
+                "Premium pricing sensitivity"
+              ],
+              "opportunities": [
+                "Blockchain for traceability",
+                "B2B ethical sourcing",
+                "ESG data monetization"
+              ],
+              "threats": [
+                "Data privacy regulations",
+                "Competitors with lower price points",
+                "Connectivity issues in rural areas"
+              ]
+            },
+            "target_audience": [
+              "Ethical urban consumers",
+              "Farm-to-table restaurants",
+              "Transparency-focused grocers"
+            ],
+            "market_insight": "Consumers are 70% more likely to buy products when they can verify the exact origin and fair-pay status of the producer.",
+            "competitor_insight": "Most aggregators hide margins; a 'Glass Box' model creates a significant brand moat against traditional retailers.",
+            "revenue_model": [
+              "Tiered verification fees",
+              "Transaction commission",
+              "Premium transparency dashboard access"
+            ],
+            "key_risks": [
+              "Farmer digital literacy barriers",
+              "Maintaining data integrity",
+              "Scaling verification processes"
+            ],
+            "improvement_suggestions": [
+              "Integrate QR codes for instant farm-to-phone history",
+              "Automate data collection via IoT",
+              "Implement community-led verification systems"
+            ],
+            "improved_idea": "A 'Verified Origin' platform that uses IoT and QR tracking to provide consumers with a live feed of the farm, harvest date, and exact margin breakdown.",
+            "final_verdict": "Strong market fit; success depends on making the high-accuracy transparency features easy for farmers to use without slowing down operations."
+          }
+        }
+      ]
+    },
+    {
+      "user_id": "user_1775193688739",
+      "email": "veeramaneeswarreddygadikota@gmail.com",
+      "password": "mani@007",
+      "chats": [
+        {
+          "chat_id": "ahofpy2yd",
+          "title": "Description: An AI",
+          "type": "analysis",
+          "created_at": "2026-04-03T05:48:59.286Z",
+          "updated_at": "2026-04-03T05:48:59.658Z",
+          "revisions": [
+            {
+              "revision_id": "ywy4pbm7e",
+              "version_number": 1,
+              "created_at": "2026-04-03T05:48:59.657Z",
+              "user_input": "Description: An AI app that generates startup ideas for users automatically.  Target Users: Aspiring entrepreneurs.  Problem: People struggle to find ideas.  Solution: AI idea generator.",
+              "ai_response": "{\"idea_summary\":\"An AI-driven platform that provides aspiring entrepreneurs with curated, validated startup concepts and initial market research.\",\"viability_score\":72,\"market_demand\":\"Medium\",\"risk_level\":\"Medium\",\"scalability\":\"High\",\"monetization_potential\":\"Medium\",\"swot_analysis\":{\"strengths\":[\"Solves the 'blank page' problem for founders\",\"Low operational overhead\",\"Leverages current AI capabilities\"],\"weaknesses\":[\"High user churn after idea discovery\",\"Low barrier to entry for competitors\",\"Potential for generic output\"],\"opportunities\":[\"Integration with business plan tools\",\"Partnerships with startup incubators\",\"Niche-specific idea generation (e.g., Sustainability)\"],\"threats\":[\"General-purpose AI like ChatGPT\",\"Free community-led idea boards\",\"Saturation of 'AI wrapper' products\"]},\"target_audience\":[\"First-time founders\",\"Side-hustlers\",\"Product managers\",\"Hackathon participants\"],\"market_insight\":\"The 'pre-seed' curiosity phase is high-traffic but low-intent; moving from generation to validation is key for retention.\",\"competitor_insight\":\"Competition ranges from free tools like IdeasAI to high-end paid newsletters; differentiation requires deep data moats.\",\"revenue_model\":[\"Monthly subscription\",\"One-time fee for deep-dive reports\",\"Affiliate commissions for startup tools\"],\"key_risks\":[\"AI hallucination of market needs\",\"Lack of emotional connection to AI-generated ideas\",\"Difficulty in building a defensible moat\"],\"improvement_suggestions\":[\"Include real-world search volume data\",\"Generate automated landing page mockups\",\"Offer a 'validation score' based on live trends\"],\"improved_idea\":\"An AI Venture Studio that generates ideas, builds instant validation landing pages, and tracks initial user interest via ads.\",\"final_verdict\":\"A solid entry-level tool that needs to evolve into a 'validation engine' to provide long-term professional value.\"}",
+              "structured_output": {
+                "idea_summary": "An AI-driven platform that provides aspiring entrepreneurs with curated, validated startup concepts and initial market research.",
+                "viability_score": 72,
+                "market_demand": "Medium",
+                "risk_level": "Medium",
+                "scalability": "High",
+                "monetization_potential": "Medium",
+                "swot_analysis": {
+                  "strengths": [
+                    "Solves the 'blank page' problem for founders",
+                    "Low operational overhead",
+                    "Leverages current AI capabilities"
+                  ],
+                  "weaknesses": [
+                    "High user churn after idea discovery",
+                    "Low barrier to entry for competitors",
+                    "Potential for generic output"
+                  ],
+                  "opportunities": [
+                    "Integration with business plan tools",
+                    "Partnerships with startup incubators",
+                    "Niche-specific idea generation (e.g., Sustainability)"
+                  ],
+                  "threats": [
+                    "General-purpose AI like ChatGPT",
+                    "Free community-led idea boards",
+                    "Saturation of 'AI wrapper' products"
+                  ]
+                },
+                "target_audience": [
+                  "First-time founders",
+                  "Side-hustlers",
+                  "Product managers",
+                  "Hackathon participants"
+                ],
+                "market_insight": "The 'pre-seed' curiosity phase is high-traffic but low-intent; moving from generation to validation is key for retention.",
+                "competitor_insight": "Competition ranges from free tools like IdeasAI to high-end paid newsletters; differentiation requires deep data moats.",
+                "revenue_model": [
+                  "Monthly subscription",
+                  "One-time fee for deep-dive reports",
+                  "Affiliate commissions for startup tools"
+                ],
+                "key_risks": [
+                  "AI hallucination of market needs",
+                  "Lack of emotional connection to AI-generated ideas",
+                  "Difficulty in building a defensible moat"
+                ],
+                "improvement_suggestions": [
+                  "Include real-world search volume data",
+                  "Generate automated landing page mockups",
+                  "Offer a 'validation score' based on live trends"
+                ],
+                "improved_idea": "An AI Venture Studio that generates ideas, builds instant validation landing pages, and tracks initial user interest via ads.",
+                "final_verdict": "A solid entry-level tool that needs to evolve into a 'validation engine' to provide long-term professional value."
+              },
+              "summary_label": "Risk Mitigation"
+            }
+          ],
+          "last_analysis_result": {
+            "idea_summary": "An AI-driven platform that provides aspiring entrepreneurs with curated, validated startup concepts and initial market research.",
+            "viability_score": 72,
+            "market_demand": "Medium",
+            "risk_level": "Medium",
+            "scalability": "High",
+            "monetization_potential": "Medium",
+            "swot_analysis": {
+              "strengths": [
+                "Solves the 'blank page' problem for founders",
+                "Low operational overhead",
+                "Leverages current AI capabilities"
+              ],
+              "weaknesses": [
+                "High user churn after idea discovery",
+                "Low barrier to entry for competitors",
+                "Potential for generic output"
+              ],
+              "opportunities": [
+                "Integration with business plan tools",
+                "Partnerships with startup incubators",
+                "Niche-specific idea generation (e.g., Sustainability)"
+              ],
+              "threats": [
+                "General-purpose AI like ChatGPT",
+                "Free community-led idea boards",
+                "Saturation of 'AI wrapper' products"
+              ]
+            },
+            "target_audience": [
+              "First-time founders",
+              "Side-hustlers",
+              "Product managers",
+              "Hackathon participants"
+            ],
+            "market_insight": "The 'pre-seed' curiosity phase is high-traffic but low-intent; moving from generation to validation is key for retention.",
+            "competitor_insight": "Competition ranges from free tools like IdeasAI to high-end paid newsletters; differentiation requires deep data moats.",
+            "revenue_model": [
+              "Monthly subscription",
+              "One-time fee for deep-dive reports",
+              "Affiliate commissions for startup tools"
+            ],
+            "key_risks": [
+              "AI hallucination of market needs",
+              "Lack of emotional connection to AI-generated ideas",
+              "Difficulty in building a defensible moat"
+            ],
+            "improvement_suggestions": [
+              "Include real-world search volume data",
+              "Generate automated landing page mockups",
+              "Offer a 'validation score' based on live trends"
+            ],
+            "improved_idea": "An AI Venture Studio that generates ideas, builds instant validation landing pages, and tracks initial user interest via ads.",
+            "final_verdict": "A solid entry-level tool that needs to evolve into a 'validation engine' to provide long-term professional value."
+          }
+        },
+        {
+          "chat_id": "fg15kh4g6",
+          "title": "A direct-to-consumer marketpla...",
+          "type": "analysis",
+          "created_at": "2026-04-03T05:54:34.553Z",
+          "updated_at": "2026-04-03T05:57:22.041Z",
+          "revisions": [
+            {
+              "revision_id": "7co6mzkje",
+              "version_number": 1,
+              "created_at": "2026-04-03T05:57:22.041Z",
+              "user_input": "A platform that connects farmers directly with consumers to eliminate middlemen.  Target Users: Farmers and urban consumers.  Problem: Farmers earn less due to intermediaries.  Solution: Marketplace for direct selling.",
+              "ai_response": "{\"idea_summary\":\"A direct-to-consumer marketplace connecting farmers with urban buyers to remove intermediaries and optimize pricing.\",\"viability_score\":78,\"market_demand\":\"High\",\"risk_level\":\"High\",\"scalability\":\"Medium\",\"monetization_potential\":\"High\",\"swot_analysis\":{\"strengths\":[\"Better margins for producers\",\"Lower prices for buyers\",\"Freshness and transparency\"],\"weaknesses\":[\"Complex logistics\",\"Perishable goods handling\",\"Farmer tech adoption\"],\"opportunities\":[\"Organic food trend\",\"Subscription models\",\"Government support\"],\"threats\":[\"Big-box retail competition\",\"Supply chain volatility\",\"Delivery costs\"]},\"target_audience\":[\"Health-conscious urbanites\",\"Small-scale farmers\",\"Eco-friendly households\",\"Local restaurants\"],\"market_insight\":\"Consumer preference for 'farm-to-table' transparency is growing at 12% CAGR, driven by health and sustainability concerns.\",\"competitor_insight\":\"While large grocery apps exist, they lack the 'personal story' and direct-from-source trust that niche D2C platforms provide.\",\"revenue_model\":[\"Transaction commissions\",\"Premium subscription tiers\",\"Delivery logistics fees\"],\"key_risks\":[\"Quality control consistency\",\"Last-mile delivery costs\",\"Seasonal supply fluctuations\"],\"improvement_suggestions\":[\"Implement a neighborhood group-buying feature\",\"Partner with existing cold-chain providers\",\"Add a 'Quality Certified' verification process\"],\"improved_idea\":\"A community-driven farm-to-fork app focusing on neighborhood 'cluster deliveries' to reduce shipping costs while offering AI-based crop demand forecasting for farmers.\",\"final_verdict\":\"Highly viable if logistics are managed through local micro-hubs rather than individual home deliveries to ensure profitability.\"}",
+              "structured_output": {
+                "idea_summary": "A direct-to-consumer marketplace connecting farmers with urban buyers to remove intermediaries and optimize pricing.",
+                "viability_score": 78,
+                "market_demand": "High",
+                "risk_level": "High",
+                "scalability": "Medium",
+                "monetization_potential": "High",
+                "swot_analysis": {
+                  "strengths": [
+                    "Better margins for producers",
+                    "Lower prices for buyers",
+                    "Freshness and transparency"
+                  ],
+                  "weaknesses": [
+                    "Complex logistics",
+                    "Perishable goods handling",
+                    "Farmer tech adoption"
+                  ],
+                  "opportunities": [
+                    "Organic food trend",
+                    "Subscription models",
+                    "Government support"
+                  ],
+                  "threats": [
+                    "Big-box retail competition",
+                    "Supply chain volatility",
+                    "Delivery costs"
+                  ]
+                },
+                "target_audience": [
+                  "Health-conscious urbanites",
+                  "Small-scale farmers",
+                  "Eco-friendly households",
+                  "Local restaurants"
+                ],
+                "market_insight": "Consumer preference for 'farm-to-table' transparency is growing at 12% CAGR, driven by health and sustainability concerns.",
+                "competitor_insight": "While large grocery apps exist, they lack the 'personal story' and direct-from-source trust that niche D2C platforms provide.",
+                "revenue_model": [
+                  "Transaction commissions",
+                  "Premium subscription tiers",
+                  "Delivery logistics fees"
+                ],
+                "key_risks": [
+                  "Quality control consistency",
+                  "Last-mile delivery costs",
+                  "Seasonal supply fluctuations"
+                ],
+                "improvement_suggestions": [
+                  "Implement a neighborhood group-buying feature",
+                  "Partner with existing cold-chain providers",
+                  "Add a 'Quality Certified' verification process"
+                ],
+                "improved_idea": "A community-driven farm-to-fork app focusing on neighborhood 'cluster deliveries' to reduce shipping costs while offering AI-based crop demand forecasting for farmers.",
+                "final_verdict": "Highly viable if logistics are managed through local micro-hubs rather than individual home deliveries to ensure profitability."
+              },
+              "summary_label": "Risk Mitigation"
+            }
+          ],
+          "last_analysis_result": {
+            "idea_summary": "A direct-to-consumer marketplace connecting farmers with urban buyers to remove intermediaries and optimize pricing.",
+            "viability_score": 78,
+            "market_demand": "High",
+            "risk_level": "High",
+            "scalability": "Medium",
+            "monetization_potential": "High",
+            "swot_analysis": {
+              "strengths": [
+                "Better margins for producers",
+                "Lower prices for buyers",
+                "Freshness and transparency"
+              ],
+              "weaknesses": [
+                "Complex logistics",
+                "Perishable goods handling",
+                "Farmer tech adoption"
+              ],
+              "opportunities": [
+                "Organic food trend",
+                "Subscription models",
+                "Government support"
+              ],
+              "threats": [
+                "Big-box retail competition",
+                "Supply chain volatility",
+                "Delivery costs"
+              ]
+            },
+            "target_audience": [
+              "Health-conscious urbanites",
+              "Small-scale farmers",
+              "Eco-friendly households",
+              "Local restaurants"
+            ],
+            "market_insight": "Consumer preference for 'farm-to-table' transparency is growing at 12% CAGR, driven by health and sustainability concerns.",
+            "competitor_insight": "While large grocery apps exist, they lack the 'personal story' and direct-from-source trust that niche D2C platforms provide.",
+            "revenue_model": [
+              "Transaction commissions",
+              "Premium subscription tiers",
+              "Delivery logistics fees"
+            ],
+            "key_risks": [
+              "Quality control consistency",
+              "Last-mile delivery costs",
+              "Seasonal supply fluctuations"
+            ],
+            "improvement_suggestions": [
+              "Implement a neighborhood group-buying feature",
+              "Partner with existing cold-chain providers",
+              "Add a 'Quality Certified' verification process"
+            ],
+            "improved_idea": "A community-driven farm-to-fork app focusing on neighborhood 'cluster deliveries' to reduce shipping costs while offering AI-based crop demand forecasting for farmers.",
+            "final_verdict": "Highly viable if logistics are managed through local micro-hubs rather than individual home deliveries to ensure profitability."
+          }
+        },
+        {
+          "chat_id": "huhlz4a06",
+          "title": "A wearable Brain-Computer Inte...",
+          "type": "analysis",
+          "created_at": "2026-04-03T05:57:37.306Z",
+          "updated_at": "2026-04-03T06:20:44.169Z",
+          "revisions": [
+            {
+              "revision_id": "zzh0dca52",
+              "version_number": 1,
+              "created_at": "2026-04-03T05:58:24.808Z",
+              "user_input": "Description: A device that reads human thoughts and converts them into text instantly.  Target Users: Everyone.  Problem: People cannot directly share thoughts.  Solution: Brain-reading wearable device.",
+              "ai_response": "{\"idea_summary\":\"A wearable Brain-Computer Interface (BCI) designed to decode neural signals into real-time text output.\",\"viability_score\":45,\"market_demand\":\"High\",\"risk_level\":\"High\",\"scalability\":\"High\",\"monetization_potential\":\"High\",\"swot_analysis\":{\"strengths\":[\"Revolutionary communication speed\",\"Universal accessibility appeal\",\"High entry barrier for competitors\"],\"weaknesses\":[\"High technical complexity\",\"Signal-to-noise ratio issues\",\"Significant R&D costs\"],\"opportunities\":[\"Assistive tech for non-verbal users\",\"Hands-free industrial application\",\"Integration with LLMs\"],\"threats\":[\"Stringent neuro-privacy regulations\",\"Ethical concerns regarding 'mind reading'\",\"Competition from invasive tech like Neuralink\"]},\"target_audience\":[\"Individuals with motor or speech impairments\",\"High-performance knowledge workers\",\"Specialized industrial operators\"],\"market_insight\":\"The BCI market is expanding rapidly but currently lacks a reliable, consumer-grade non-invasive device for fluid text conversion.\",\"competitor_insight\":\"Current players like Neuralink focus on invasive implants; non-invasive competitors like Emotiv focus on simple commands rather than complex syntax.\",\"revenue_model\":[\"Premium hardware sales\",\"Subscription-based AI decoding models\",\"Enterprise API licensing\"],\"key_risks\":[\"Data privacy and neural security\",\"Accuracy and calibration latency\",\"Long-term physiological safety\"],\"improvement_suggestions\":[\"Focus initially on a medical niche (ALS/Stroke) for FDA validation\",\"Utilize 'silent speech' (subvocalization) for higher signal accuracy\",\"Implement hardware-level end-to-end encryption\"],\"improved_idea\":\"A non-invasive, high-fidelity headband using fNIRS and EEG sensors specifically tuned to decode 'silent speech' for accessibility and secure enterprise communication.\",\"final_verdict\":\"A high-risk 'moonshot' project with massive potential; success depends on solving signal accuracy without invasive surgery.\"}",
+              "structured_output": {
+                "idea_summary": "A wearable Brain-Computer Interface (BCI) designed to decode neural signals into real-time text output.",
+                "viability_score": 45,
+                "market_demand": "High",
+                "risk_level": "High",
+                "scalability": "High",
+                "monetization_potential": "High",
+                "swot_analysis": {
+                  "strengths": [
+                    "Revolutionary communication speed",
+                    "Universal accessibility appeal",
+                    "High entry barrier for competitors"
+                  ],
+                  "weaknesses": [
+                    "High technical complexity",
+                    "Signal-to-noise ratio issues",
+                    "Significant R&D costs"
+                  ],
+                  "opportunities": [
+                    "Assistive tech for non-verbal users",
+                    "Hands-free industrial application",
+                    "Integration with LLMs"
+                  ],
+                  "threats": [
+                    "Stringent neuro-privacy regulations",
+                    "Ethical concerns regarding 'mind reading'",
+                    "Competition from invasive tech like Neuralink"
+                  ]
+                },
+                "target_audience": [
+                  "Individuals with motor or speech impairments",
+                  "High-performance knowledge workers",
+                  "Specialized industrial operators"
+                ],
+                "market_insight": "The BCI market is expanding rapidly but currently lacks a reliable, consumer-grade non-invasive device for fluid text conversion.",
+                "competitor_insight": "Current players like Neuralink focus on invasive implants; non-invasive competitors like Emotiv focus on simple commands rather than complex syntax.",
+                "revenue_model": [
+                  "Premium hardware sales",
+                  "Subscription-based AI decoding models",
+                  "Enterprise API licensing"
+                ],
+                "key_risks": [
+                  "Data privacy and neural security",
+                  "Accuracy and calibration latency",
+                  "Long-term physiological safety"
+                ],
+                "improvement_suggestions": [
+                  "Focus initially on a medical niche (ALS/Stroke) for FDA validation",
+                  "Utilize 'silent speech' (subvocalization) for higher signal accuracy",
+                  "Implement hardware-level end-to-end encryption"
+                ],
+                "improved_idea": "A non-invasive, high-fidelity headband using fNIRS and EEG sensors specifically tuned to decode 'silent speech' for accessibility and secure enterprise communication.",
+                "final_verdict": "A high-risk 'moonshot' project with massive potential; success depends on solving signal accuracy without invasive surgery."
+              },
+              "summary_label": "Risk Mitigation"
+            },
+            {
+              "revision_id": "qg3ey9lly",
+              "version_number": 2,
+              "created_at": "2026-04-03T05:58:43.201Z",
+              "user_input": "Improve Idea",
+              "ai_response": "Based on your analysis, here are key improvements: Focus initially on a medical niche (ALS/Stroke) for FDA validation, Utilize 'silent speech' (subvocalization) for higher signal accuracy. Focus on these to boost your viability score.",
+              "summary_label": "Improved Version"
+            },
+            {
+              "revision_id": "ltv235264",
+              "version_number": 3,
+              "created_at": "2026-04-03T05:58:48.207Z",
+              "user_input": "Improve Idea",
+              "ai_response": "Based on your analysis, here are key improvements: Focus initially on a medical niche (ALS/Stroke) for FDA validation, Utilize 'silent speech' (subvocalization) for higher signal accuracy. Focus on these to boost your viability score.",
+              "summary_label": "Improved Version"
+            },
+            {
+              "revision_id": "imk7wn0j3",
+              "version_number": 4,
+              "created_at": "2026-04-03T05:58:58.984Z",
+              "user_input": "Improve Idea",
+              "ai_response": "Based on your analysis, here are key improvements: Focus initially on a medical niche (ALS/Stroke) for FDA validation, Utilize 'silent speech' (subvocalization) for higher signal accuracy. Focus on these to boost your viability score.",
+              "summary_label": "Improved Version"
+            },
+            {
+              "revision_id": "cs6dap05k",
+              "version_number": 5,
+              "created_at": "2026-04-03T06:20:36.374Z",
+              "user_input": "Explain Score",
+              "ai_response": "Your viability score of 45/100 indicates significant challenges to address. The high market demand is a great sign!",
+              "summary_label": "Updated Idea"
+            },
+            {
+              "revision_id": "957a6zo33",
+              "version_number": 6,
+              "created_at": "2026-04-03T06:20:44.169Z",
+              "user_input": "Improve Idea",
+              "ai_response": "Based on your analysis, here are key improvements: Focus initially on a medical niche (ALS/Stroke) for FDA validation, Utilize 'silent speech' (subvocalization) for higher signal accuracy. Focus on these to boost your viability score.",
+              "summary_label": "Improved Version"
+            }
+          ],
+          "last_analysis_result": {
+            "idea_summary": "A wearable Brain-Computer Interface (BCI) designed to decode neural signals into real-time text output.",
+            "viability_score": 45,
+            "market_demand": "High",
+            "risk_level": "High",
+            "scalability": "High",
+            "monetization_potential": "High",
+            "swot_analysis": {
+              "strengths": [
+                "Revolutionary communication speed",
+                "Universal accessibility appeal",
+                "High entry barrier for competitors"
+              ],
+              "weaknesses": [
+                "High technical complexity",
+                "Signal-to-noise ratio issues",
+                "Significant R&D costs"
+              ],
+              "opportunities": [
+                "Assistive tech for non-verbal users",
+                "Hands-free industrial application",
+                "Integration with LLMs"
+              ],
+              "threats": [
+                "Stringent neuro-privacy regulations",
+                "Ethical concerns regarding 'mind reading'",
+                "Competition from invasive tech like Neuralink"
+              ]
+            },
+            "target_audience": [
+              "Individuals with motor or speech impairments",
+              "High-performance knowledge workers",
+              "Specialized industrial operators"
+            ],
+            "market_insight": "The BCI market is expanding rapidly but currently lacks a reliable, consumer-grade non-invasive device for fluid text conversion.",
+            "competitor_insight": "Current players like Neuralink focus on invasive implants; non-invasive competitors like Emotiv focus on simple commands rather than complex syntax.",
+            "revenue_model": [
+              "Premium hardware sales",
+              "Subscription-based AI decoding models",
+              "Enterprise API licensing"
+            ],
+            "key_risks": [
+              "Data privacy and neural security",
+              "Accuracy and calibration latency",
+              "Long-term physiological safety"
+            ],
+            "improvement_suggestions": [
+              "Focus initially on a medical niche (ALS/Stroke) for FDA validation",
+              "Utilize 'silent speech' (subvocalization) for higher signal accuracy",
+              "Implement hardware-level end-to-end encryption"
+            ],
+            "improved_idea": "A non-invasive, high-fidelity headband using fNIRS and EEG sensors specifically tuned to decode 'silent speech' for accessibility and secure enterprise communication.",
+            "final_verdict": "A high-risk 'moonshot' project with massive potential; success depends on solving signal accuracy without invasive surgery."
+          }
+        },
+        {
+          "chat_id": "ku1vonpzr",
+          "title": "A mobile application that deli...",
+          "type": "analysis",
+          "created_at": "2026-04-03T06:21:08.011Z",
+          "updated_at": "2026-04-03T06:40:06.953Z",
+          "revisions": [
+            {
+              "revision_id": "k1bjn9ms6",
+              "version_number": 1,
+              "created_at": "2026-04-03T06:22:13.345Z",
+              "user_input": "Target Users: General smartphone users.  Problem: People feel unmotivated sometimes.  Solution: Simple notification-based quote system.",
+              "ai_response": "{\"idea_summary\":\"A mobile application that delivers periodic motivational quotes via push notifications to help users overcome daily slumps and mental fatigue.\",\"viability_score\":42,\"market_demand\":\"Medium\",\"risk_level\":\"High\",\"scalability\":\"Medium\",\"monetization_potential\":\"Low\",\"swot_analysis\":{\"strengths\":[\"Extremely low development and maintenance costs\",\"Clear and simple value proposition\",\"High potential for viral social sharing\"],\"weaknesses\":[\"High user churn and notification fatigue\",\"Low barrier to entry for competitors\",\"Lack of unique proprietary data\"],\"opportunities\":[\"AI-driven personalization of content\",\"Integration with wearable health devices\",\"B2B sales for employee wellness\"],\"threats\":[\"Dominance of established apps like 'Motivation'\",\"Native OS features mimicking functionality\",\"User sensitivity to push notification spam\"]},\"target_audience\":[\"Students managing exam stress\",\"Remote professionals\",\"Individuals pursuing fitness goals\"],\"market_insight\":\"The digital wellness market is expanding, but simple content-delivery apps face extreme competition from social media platforms and established mental health apps.\",\"competitor_insight\":\"Top competitors succeed by offering highly aesthetic home-screen widgets and deep personalization rather than just simple notifications.\",\"revenue_model\":[\"Subscription for premium categories\",\"Ad-supported free tier\",\"One-time purchase for ad-removal\"],\"key_risks\":[\"Notification burnout leading to app deletion\",\"Generic content failing to resonate with users\",\"High cost of user acquisition vs low lifetime value\"],\"improvement_suggestions\":[\"Add AI to deliver quotes based on user's calendar or mood\",\"Include 'Micro-Challenges' to make quotes actionable\",\"Implement high-quality home-screen widgets for passive engagement\"],\"improved_idea\":\"An AI 'Contextual Coach' that analyzes your schedule to provide timely motivation and 1-minute 'reset' exercises exactly when you face high-stress blocks.\",\"final_verdict\":\"The idea is currently too generic; success requires pivoting from simple notifications to an integrated wellness experience or a high-utility widget.\"}",
+              "structured_output": {
+                "idea_summary": "A mobile application that delivers periodic motivational quotes via push notifications to help users overcome daily slumps and mental fatigue.",
+                "viability_score": 42,
+                "market_demand": "Medium",
+                "risk_level": "High",
+                "scalability": "Medium",
+                "monetization_potential": "Low",
+                "swot_analysis": {
+                  "strengths": [
+                    "Extremely low development and maintenance costs",
+                    "Clear and simple value proposition",
+                    "High potential for viral social sharing"
+                  ],
+                  "weaknesses": [
+                    "High user churn and notification fatigue",
+                    "Low barrier to entry for competitors",
+                    "Lack of unique proprietary data"
+                  ],
+                  "opportunities": [
+                    "AI-driven personalization of content",
+                    "Integration with wearable health devices",
+                    "B2B sales for employee wellness"
+                  ],
+                  "threats": [
+                    "Dominance of established apps like 'Motivation'",
+                    "Native OS features mimicking functionality",
+                    "User sensitivity to push notification spam"
+                  ]
+                },
+                "target_audience": [
+                  "Students managing exam stress",
+                  "Remote professionals",
+                  "Individuals pursuing fitness goals"
+                ],
+                "market_insight": "The digital wellness market is expanding, but simple content-delivery apps face extreme competition from social media platforms and established mental health apps.",
+                "competitor_insight": "Top competitors succeed by offering highly aesthetic home-screen widgets and deep personalization rather than just simple notifications.",
+                "revenue_model": [
+                  "Subscription for premium categories",
+                  "Ad-supported free tier",
+                  "One-time purchase for ad-removal"
+                ],
+                "key_risks": [
+                  "Notification burnout leading to app deletion",
+                  "Generic content failing to resonate with users",
+                  "High cost of user acquisition vs low lifetime value"
+                ],
+                "improvement_suggestions": [
+                  "Add AI to deliver quotes based on user's calendar or mood",
+                  "Include 'Micro-Challenges' to make quotes actionable",
+                  "Implement high-quality home-screen widgets for passive engagement"
+                ],
+                "improved_idea": "An AI 'Contextual Coach' that analyzes your schedule to provide timely motivation and 1-minute 'reset' exercises exactly when you face high-stress blocks.",
+                "final_verdict": "The idea is currently too generic; success requires pivoting from simple notifications to an integrated wellness experience or a high-utility widget."
+              },
+              "summary_label": "Risk Mitigation"
+            },
+            {
+              "revision_id": "4w0exb479",
+              "version_number": 2,
+              "created_at": "2026-04-03T06:22:26.017Z",
+              "user_input": "Explain Score",
+              "ai_response": "Your viability score of 42/100 indicates significant challenges to address. Consider ways to increase market demand.",
+              "summary_label": "Updated Idea"
+            },
+            {
+              "revision_id": "e2gggjmpu",
+              "version_number": 3,
+              "created_at": "2026-04-03T06:24:29.642Z",
+              "user_input": "Find Risks",
+              "ai_response": "Key risks to address: Notification burnout leading to app deletion, Generic content failing to resonate with users. Start by creating mitigation strategies for these challenges.",
+              "summary_label": "Risk Mitigation"
+            },
+            {
+              "revision_id": "64mg0cluk",
+              "version_number": 4,
+              "created_at": "2026-04-03T06:40:06.953Z",
+              "user_input": "Improve Idea",
+              "ai_response": "Based on your analysis, here are key improvements: Add AI to deliver quotes based on user's calendar or mood, Include 'Micro-Challenges' to make quotes actionable. Focus on these to boost your viability score.",
+              "summary_label": "Improved Version"
+            }
+          ],
+          "last_analysis_result": {
+            "idea_summary": "A mobile application that delivers periodic motivational quotes via push notifications to help users overcome daily slumps and mental fatigue.",
+            "viability_score": 42,
+            "market_demand": "Medium",
+            "risk_level": "High",
+            "scalability": "Medium",
+            "monetization_potential": "Low",
+            "swot_analysis": {
+              "strengths": [
+                "Extremely low development and maintenance costs",
+                "Clear and simple value proposition",
+                "High potential for viral social sharing"
+              ],
+              "weaknesses": [
+                "High user churn and notification fatigue",
+                "Low barrier to entry for competitors",
+                "Lack of unique proprietary data"
+              ],
+              "opportunities": [
+                "AI-driven personalization of content",
+                "Integration with wearable health devices",
+                "B2B sales for employee wellness"
+              ],
+              "threats": [
+                "Dominance of established apps like 'Motivation'",
+                "Native OS features mimicking functionality",
+                "User sensitivity to push notification spam"
+              ]
+            },
+            "target_audience": [
+              "Students managing exam stress",
+              "Remote professionals",
+              "Individuals pursuing fitness goals"
+            ],
+            "market_insight": "The digital wellness market is expanding, but simple content-delivery apps face extreme competition from social media platforms and established mental health apps.",
+            "competitor_insight": "Top competitors succeed by offering highly aesthetic home-screen widgets and deep personalization rather than just simple notifications.",
+            "revenue_model": [
+              "Subscription for premium categories",
+              "Ad-supported free tier",
+              "One-time purchase for ad-removal"
+            ],
+            "key_risks": [
+              "Notification burnout leading to app deletion",
+              "Generic content failing to resonate with users",
+              "High cost of user acquisition vs low lifetime value"
+            ],
+            "improvement_suggestions": [
+              "Add AI to deliver quotes based on user's calendar or mood",
+              "Include 'Micro-Challenges' to make quotes actionable",
+              "Implement high-quality home-screen widgets for passive engagement"
+            ],
+            "improved_idea": "An AI 'Contextual Coach' that analyzes your schedule to provide timely motivation and 1-minute 'reset' exercises exactly when you face high-stress blocks.",
+            "final_verdict": "The idea is currently too generic; success requires pivoting from simple notifications to an integrated wellness experience or a high-utility widget."
+          }
+        },
+        {
+          "chat_id": "pkhycfvr6",
+          "title": "A notification-based mobile ap...",
+          "type": "analysis",
+          "created_at": "2026-04-03T06:40:12.108Z",
+          "updated_at": "2026-04-03T06:45:45.053Z",
+          "revisions": [
+            {
+              "revision_id": "9r7syddh4",
+              "version_number": 1,
+              "created_at": "2026-04-03T06:41:14.247Z",
+              "user_input": "Target Users: General smartphone users.  Problem: People feel unmotivated sometimes.  Solution: Simple notification-based quote system.",
+              "ai_response": "{\"idea_summary\":\"A notification-based mobile application delivering motivational quotes to general smartphone users to combat low motivation.\",\"viability_score\":35,\"market_demand\":\"Medium\",\"risk_level\":\"High\",\"scalability\":\"High\",\"monetization_potential\":\"Low\",\"swot_analysis\":{\"strengths\":[\"Low development cost\",\"Ease of use\",\"Quick time-to-market\"],\"weaknesses\":[\"No competitive moat\",\"High user churn\",\"Low perceived value\"],\"opportunities\":[\"AI personalization\",\"Wearable integration\",\"Niche targeting\"],\"threats\":[\"Extreme competition\",\"OS-level focus features\",\"Free social media content\"]},\"target_audience\":[\"Students\",\"Young professionals\",\"Wellness enthusiasts\"],\"market_insight\":\"The digital wellness market is expanding, but simple quote apps are highly commoditized and face significant discovery challenges.\",\"competitor_insight\":\"The market is saturated with free apps and established players like 'Motivation' that offer deep customization and widget support.\",\"revenue_model\":[\"Ad-supported free tier\",\"Premium subscription for themes\",\"B2B wellness bundles\"],\"key_risks\":[\"Notification fatigue leading to uninstalls\",\"Low barrier to entry for competitors\",\"Limited user retention\"],\"improvement_suggestions\":[\"Use AI to match quotes to user mood/time of day\",\"Add micro-journaling features\",\"Incorporate actionable habit tracking\"],\"improved_idea\":\"An AI-powered 'Contextual Mindset Coach' that delivers personalized insights and micro-actions based on the user's calendar and activity patterns.\",\"final_verdict\":\"Pivot recommended. A basic quote app lacks the differentiation needed to survive in a saturated market; focus on high-value personalization.\"}",
+              "structured_output": {
+                "idea_summary": "A notification-based mobile application delivering motivational quotes to general smartphone users to combat low motivation.",
+                "viability_score": 35,
+                "market_demand": "Medium",
+                "risk_level": "High",
+                "scalability": "High",
+                "monetization_potential": "Low",
+                "swot_analysis": {
+                  "strengths": [
+                    "Low development cost",
+                    "Ease of use",
+                    "Quick time-to-market"
+                  ],
+                  "weaknesses": [
+                    "No competitive moat",
+                    "High user churn",
+                    "Low perceived value"
+                  ],
+                  "opportunities": [
+                    "AI personalization",
+                    "Wearable integration",
+                    "Niche targeting"
+                  ],
+                  "threats": [
+                    "Extreme competition",
+                    "OS-level focus features",
+                    "Free social media content"
+                  ]
+                },
+                "target_audience": [
+                  "Students",
+                  "Young professionals",
+                  "Wellness enthusiasts"
+                ],
+                "market_insight": "The digital wellness market is expanding, but simple quote apps are highly commoditized and face significant discovery challenges.",
+                "competitor_insight": "The market is saturated with free apps and established players like 'Motivation' that offer deep customization and widget support.",
+                "revenue_model": [
+                  "Ad-supported free tier",
+                  "Premium subscription for themes",
+                  "B2B wellness bundles"
+                ],
+                "key_risks": [
+                  "Notification fatigue leading to uninstalls",
+                  "Low barrier to entry for competitors",
+                  "Limited user retention"
+                ],
+                "improvement_suggestions": [
+                  "Use AI to match quotes to user mood/time of day",
+                  "Add micro-journaling features",
+                  "Incorporate actionable habit tracking"
+                ],
+                "improved_idea": "An AI-powered 'Contextual Mindset Coach' that delivers personalized insights and micro-actions based on the user's calendar and activity patterns.",
+                "final_verdict": "Pivot recommended. A basic quote app lacks the differentiation needed to survive in a saturated market; focus on high-value personalization."
+              },
+              "summary_label": "Risk Mitigation"
+            },
+            {
+              "revision_id": "84w230hhy",
+              "version_number": 2,
+              "created_at": "2026-04-03T06:41:24.102Z",
+              "user_input": "Explain Score",
+              "ai_response": "Your viability score of 35/100 indicates significant challenges to address. Consider ways to increase market demand.",
+              "summary_label": "Updated Idea"
+            },
+            {
+              "revision_id": "yeb4s0gep",
+              "version_number": 3,
+              "created_at": "2026-04-03T06:41:44.789Z",
+              "user_input": "Improve Idea",
+              "ai_response": "Based on your analysis, here are key improvements: Use AI to match quotes to user mood/time of day, Add micro-journaling features. Focus on these to boost your viability score.",
+              "summary_label": "Improved Version"
+            },
+            {
+              "revision_id": "mrl6at2st",
+              "version_number": 4,
+              "created_at": "2026-04-03T06:45:45.053Z",
+              "user_input": "Explain Score",
+              "ai_response": "Your viability score of 35/100 indicates significant challenges to address. Consider ways to increase market demand.",
+              "summary_label": "Updated Idea"
+            }
+          ],
+          "last_analysis_result": {
+            "idea_summary": "A notification-based mobile application delivering motivational quotes to general smartphone users to combat low motivation.",
+            "viability_score": 35,
+            "market_demand": "Medium",
+            "risk_level": "High",
+            "scalability": "High",
+            "monetization_potential": "Low",
+            "swot_analysis": {
+              "strengths": [
+                "Low development cost",
+                "Ease of use",
+                "Quick time-to-market"
+              ],
+              "weaknesses": [
+                "No competitive moat",
+                "High user churn",
+                "Low perceived value"
+              ],
+              "opportunities": [
+                "AI personalization",
+                "Wearable integration",
+                "Niche targeting"
+              ],
+              "threats": [
+                "Extreme competition",
+                "OS-level focus features",
+                "Free social media content"
+              ]
+            },
+            "target_audience": [
+              "Students",
+              "Young professionals",
+              "Wellness enthusiasts"
+            ],
+            "market_insight": "The digital wellness market is expanding, but simple quote apps are highly commoditized and face significant discovery challenges.",
+            "competitor_insight": "The market is saturated with free apps and established players like 'Motivation' that offer deep customization and widget support.",
+            "revenue_model": [
+              "Ad-supported free tier",
+              "Premium subscription for themes",
+              "B2B wellness bundles"
+            ],
+            "key_risks": [
+              "Notification fatigue leading to uninstalls",
+              "Low barrier to entry for competitors",
+              "Limited user retention"
+            ],
+            "improvement_suggestions": [
+              "Use AI to match quotes to user mood/time of day",
+              "Add micro-journaling features",
+              "Incorporate actionable habit tracking"
+            ],
+            "improved_idea": "An AI-powered 'Contextual Mindset Coach' that delivers personalized insights and micro-actions based on the user's calendar and activity patterns.",
+            "final_verdict": "Pivot recommended. A basic quote app lacks the differentiation needed to survive in a saturated market; focus on high-value personalization."
+          }
+        },
+        {
+          "chat_id": "avplzsxb7",
+          "title": "An AI-driven platform that aut...",
+          "type": "analysis",
+          "created_at": "2026-04-03T06:48:28.903Z",
+          "updated_at": "2026-04-03T06:51:14.394Z",
+          "revisions": [
+            {
+              "revision_id": "19jljvgqi",
+              "version_number": 1,
+              "created_at": "2026-04-03T06:51:14.394Z",
+              "user_input": "An AI app that generates startup ideas for users automatically.  Target Users: Aspiring entrepreneurs.  Problem: People struggle to find ideas.  Solution: AI idea generator.",
+              "ai_response": "{\"idea_summary\":\"An AI-driven platform that automates the brainstorming process for aspiring entrepreneurs by generating startup concepts based on trending markets and user-defined constraints.\",\"viability_score\":68,\"market_demand\":\"Medium\",\"risk_level\":\"Medium\",\"scalability\":\"High\",\"monetization_potential\":\"Medium\",\"swot_analysis\":{\"strengths\":[\"Low cost of operation\",\"Immediate value delivery\",\"Highly scalable SaaS model\"],\"weaknesses\":[\"Generic AI outputs\",\"Low user retention\",\"Easily replicated by free tools\"],\"opportunities\":[\"Niche-specific generators\",\"Market data integration\",\"Partnerships with incubators\"],\"threats\":[\"General AI models like ChatGPT\",\"Saturated 'idea' market\",\"Low barrier to entry\"]},\"target_audience\":[\"First-time entrepreneurs\",\"Side-hustlers\",\"Indie hackers\",\"Product designers\"],\"market_insight\":\"The market is shifting from 'idea generation' to 'idea validation.' Users no longer want just ideas; they want data-backed opportunities.\",\"competitor_insight\":\"Generic LLMs provide ideas for free. Direct competitors often fail by providing high quantity but low quality/viability concepts.\",\"revenue_model\":[\"Subscription for daily ideas\",\"Pay-per-report for deep validation\",\"Affiliate links for tools/hosting\"],\"key_risks\":[\"AI hallucinations creating fake market gaps\",\"High churn as users find one idea and leave\",\"Commoditization of the core technology\"],\"improvement_suggestions\":[\"Integrate real-time market demand data\",\"Add an 'MVP Roadmap' generator for each idea\",\"Provide competitor gap analysis\"],\"improved_idea\":\"An AI 'Market Opportunity' engine that cross-references Reddit/Twitter trends with existing patent databases to find high-probability gaps for startups.\",\"final_verdict\":\"A solid entry-level project or lead magnet, but needs unique data hooks to become a defensible, long-term business.\"}",
+              "structured_output": {
+                "idea_summary": "An AI-driven platform that automates the brainstorming process for aspiring entrepreneurs by generating startup concepts based on trending markets and user-defined constraints.",
+                "viability_score": 68,
+                "market_demand": "Medium",
+                "risk_level": "Medium",
+                "scalability": "High",
+                "monetization_potential": "Medium",
+                "swot_analysis": {
+                  "strengths": [
+                    "Low cost of operation",
+                    "Immediate value delivery",
+                    "Highly scalable SaaS model"
+                  ],
+                  "weaknesses": [
+                    "Generic AI outputs",
+                    "Low user retention",
+                    "Easily replicated by free tools"
+                  ],
+                  "opportunities": [
+                    "Niche-specific generators",
+                    "Market data integration",
+                    "Partnerships with incubators"
+                  ],
+                  "threats": [
+                    "General AI models like ChatGPT",
+                    "Saturated 'idea' market",
+                    "Low barrier to entry"
+                  ]
+                },
+                "target_audience": [
+                  "First-time entrepreneurs",
+                  "Side-hustlers",
+                  "Indie hackers",
+                  "Product designers"
+                ],
+                "market_insight": "The market is shifting from 'idea generation' to 'idea validation.' Users no longer want just ideas; they want data-backed opportunities.",
+                "competitor_insight": "Generic LLMs provide ideas for free. Direct competitors often fail by providing high quantity but low quality/viability concepts.",
+                "revenue_model": [
+                  "Subscription for daily ideas",
+                  "Pay-per-report for deep validation",
+                  "Affiliate links for tools/hosting"
+                ],
+                "key_risks": [
+                  "AI hallucinations creating fake market gaps",
+                  "High churn as users find one idea and leave",
+                  "Commoditization of the core technology"
+                ],
+                "improvement_suggestions": [
+                  "Integrate real-time market demand data",
+                  "Add an 'MVP Roadmap' generator for each idea",
+                  "Provide competitor gap analysis"
+                ],
+                "improved_idea": "An AI 'Market Opportunity' engine that cross-references Reddit/Twitter trends with existing patent databases to find high-probability gaps for startups.",
+                "final_verdict": "A solid entry-level project or lead magnet, but needs unique data hooks to become a defensible, long-term business."
+              },
+              "summary_label": "Risk Mitigation"
+            }
+          ],
+          "last_analysis_result": {
+            "idea_summary": "An AI-driven platform that automates the brainstorming process for aspiring entrepreneurs by generating startup concepts based on trending markets and user-defined constraints.",
+            "viability_score": 68,
+            "market_demand": "Medium",
+            "risk_level": "Medium",
+            "scalability": "High",
+            "monetization_potential": "Medium",
+            "swot_analysis": {
+              "strengths": [
+                "Low cost of operation",
+                "Immediate value delivery",
+                "Highly scalable SaaS model"
+              ],
+              "weaknesses": [
+                "Generic AI outputs",
+                "Low user retention",
+                "Easily replicated by free tools"
+              ],
+              "opportunities": [
+                "Niche-specific generators",
+                "Market data integration",
+                "Partnerships with incubators"
+              ],
+              "threats": [
+                "General AI models like ChatGPT",
+                "Saturated 'idea' market",
+                "Low barrier to entry"
+              ]
+            },
+            "target_audience": [
+              "First-time entrepreneurs",
+              "Side-hustlers",
+              "Indie hackers",
+              "Product designers"
+            ],
+            "market_insight": "The market is shifting from 'idea generation' to 'idea validation.' Users no longer want just ideas; they want data-backed opportunities.",
+            "competitor_insight": "Generic LLMs provide ideas for free. Direct competitors often fail by providing high quantity but low quality/viability concepts.",
+            "revenue_model": [
+              "Subscription for daily ideas",
+              "Pay-per-report for deep validation",
+              "Affiliate links for tools/hosting"
+            ],
+            "key_risks": [
+              "AI hallucinations creating fake market gaps",
+              "High churn as users find one idea and leave",
+              "Commoditization of the core technology"
+            ],
+            "improvement_suggestions": [
+              "Integrate real-time market demand data",
+              "Add an 'MVP Roadmap' generator for each idea",
+              "Provide competitor gap analysis"
+            ],
+            "improved_idea": "An AI 'Market Opportunity' engine that cross-references Reddit/Twitter trends with existing patent databases to find high-probability gaps for startups.",
+            "final_verdict": "A solid entry-level project or lead magnet, but needs unique data hooks to become a defensible, long-term business."
+          }
+        },
+        {
+          "chat_id": "4odc6v8dt",
+          "title": "A non-invasive wearable Brain-...",
+          "type": "analysis",
+          "created_at": "2026-04-03T08:57:34.414Z",
+          "updated_at": "2026-04-03T10:04:58.936Z",
+          "revisions": [
+            {
+              "revision_id": "xxl37dsn4",
+              "version_number": 1,
+              "created_at": "2026-04-03T10:04:58.936Z",
+              "user_input": "escription: A device that reads human thoughts and converts them into text instantly.  Target Users: Everyone.  Problem: People cannot directly share thoughts.  Solution: Brain-reading wearable device.",
+              "ai_response": "{\"idea_summary\":\"A non-invasive wearable Brain-Computer Interface (BCI) designed to decode neural signals and translate thoughts directly into digital text format.\",\"viability_score\":38,\"market_demand\":\"High\",\"risk_level\":\"High\",\"scalability\":\"High\",\"monetization_potential\":\"High\",\"swot_analysis\":{\"strengths\":[\"Eliminates physical typing barriers\",\"High innovation ceiling\",\"Universal application potential\"],\"weaknesses\":[\"Extreme R&D complexity\",\"Signal-to-noise ratio issues\",\"Hardware bulkiness\"],\"opportunities\":[\"Assistive tech for disabilities\",\"Next-gen enterprise productivity\",\"Gaming and metaverse integration\"],\"threats\":[\"Stringent neuro-privacy laws\",\"Public ethical concerns\",\"High competition from biotech giants\"]},\"target_audience\":[\"People with speech or motor impairments\",\"High-performance professionals\",\"Tech early adopters\"],\"market_insight\":\"The BCI market is projected to grow rapidly, yet mass adoption is hindered by the trade-off between invasiveness and signal accuracy.\",\"competitor_insight\":\"Established players like Neuralink focus on invasive methods; non-invasive competitors currently struggle with low-fidelity data conversion.\",\"revenue_model\":[\"Premium hardware sales\",\"Monthly AI-processing subscription\",\"Specialized B2B licensing for healthcare\"],\"key_risks\":[\"Severe neural data privacy breaches\",\"Inaccuracy in complex thought translation\",\"Potential long-term neurological impact\"],\"improvement_suggestions\":[\"Focus on a medical MVP for locked-in syndrome\",\"Use localized edge computing for neural data privacy\",\"Adopt a hybrid sensor approach (EEG + fNIRS)\"],\"improved_idea\":\"NeuralAssist: A non-invasive headband focused on translating intent-to-speech for the 70M+ people worldwide with speech disabilities.\",\"final_verdict\":\"A high-stakes moonshot with transformative potential, requiring significant breakthroughs in signal processing and ethical frameworks before commercial viability.\"}",
+              "structured_output": {
+                "idea_summary": "A non-invasive wearable Brain-Computer Interface (BCI) designed to decode neural signals and translate thoughts directly into digital text format.",
+                "viability_score": 38,
+                "market_demand": "High",
+                "risk_level": "High",
+                "scalability": "High",
+                "monetization_potential": "High",
+                "swot_analysis": {
+                  "strengths": [
+                    "Eliminates physical typing barriers",
+                    "High innovation ceiling",
+                    "Universal application potential"
+                  ],
+                  "weaknesses": [
+                    "Extreme R&D complexity",
+                    "Signal-to-noise ratio issues",
+                    "Hardware bulkiness"
+                  ],
+                  "opportunities": [
+                    "Assistive tech for disabilities",
+                    "Next-gen enterprise productivity",
+                    "Gaming and metaverse integration"
+                  ],
+                  "threats": [
+                    "Stringent neuro-privacy laws",
+                    "Public ethical concerns",
+                    "High competition from biotech giants"
+                  ]
+                },
+                "target_audience": [
+                  "People with speech or motor impairments",
+                  "High-performance professionals",
+                  "Tech early adopters"
+                ],
+                "market_insight": "The BCI market is projected to grow rapidly, yet mass adoption is hindered by the trade-off between invasiveness and signal accuracy.",
+                "competitor_insight": "Established players like Neuralink focus on invasive methods; non-invasive competitors currently struggle with low-fidelity data conversion.",
+                "revenue_model": [
+                  "Premium hardware sales",
+                  "Monthly AI-processing subscription",
+                  "Specialized B2B licensing for healthcare"
+                ],
+                "key_risks": [
+                  "Severe neural data privacy breaches",
+                  "Inaccuracy in complex thought translation",
+                  "Potential long-term neurological impact"
+                ],
+                "improvement_suggestions": [
+                  "Focus on a medical MVP for locked-in syndrome",
+                  "Use localized edge computing for neural data privacy",
+                  "Adopt a hybrid sensor approach (EEG + fNIRS)"
+                ],
+                "improved_idea": "NeuralAssist: A non-invasive headband focused on translating intent-to-speech for the 70M+ people worldwide with speech disabilities.",
+                "final_verdict": "A high-stakes moonshot with transformative potential, requiring significant breakthroughs in signal processing and ethical frameworks before commercial viability."
+              },
+              "summary_label": "Risk Mitigation"
+            }
+          ],
+          "last_analysis_result": {
+            "idea_summary": "A non-invasive wearable Brain-Computer Interface (BCI) designed to decode neural signals and translate thoughts directly into digital text format.",
+            "viability_score": 38,
+            "market_demand": "High",
+            "risk_level": "High",
+            "scalability": "High",
+            "monetization_potential": "High",
+            "swot_analysis": {
+              "strengths": [
+                "Eliminates physical typing barriers",
+                "High innovation ceiling",
+                "Universal application potential"
+              ],
+              "weaknesses": [
+                "Extreme R&D complexity",
+                "Signal-to-noise ratio issues",
+                "Hardware bulkiness"
+              ],
+              "opportunities": [
+                "Assistive tech for disabilities",
+                "Next-gen enterprise productivity",
+                "Gaming and metaverse integration"
+              ],
+              "threats": [
+                "Stringent neuro-privacy laws",
+                "Public ethical concerns",
+                "High competition from biotech giants"
+              ]
+            },
+            "target_audience": [
+              "People with speech or motor impairments",
+              "High-performance professionals",
+              "Tech early adopters"
+            ],
+            "market_insight": "The BCI market is projected to grow rapidly, yet mass adoption is hindered by the trade-off between invasiveness and signal accuracy.",
+            "competitor_insight": "Established players like Neuralink focus on invasive methods; non-invasive competitors currently struggle with low-fidelity data conversion.",
+            "revenue_model": [
+              "Premium hardware sales",
+              "Monthly AI-processing subscription",
+              "Specialized B2B licensing for healthcare"
+            ],
+            "key_risks": [
+              "Severe neural data privacy breaches",
+              "Inaccuracy in complex thought translation",
+              "Potential long-term neurological impact"
+            ],
+            "improvement_suggestions": [
+              "Focus on a medical MVP for locked-in syndrome",
+              "Use localized edge computing for neural data privacy",
+              "Adopt a hybrid sensor approach (EEG + fNIRS)"
+            ],
+            "improved_idea": "NeuralAssist: A non-invasive headband focused on translating intent-to-speech for the 70M+ people worldwide with speech disabilities.",
+            "final_verdict": "A high-stakes moonshot with transformative potential, requiring significant breakthroughs in signal processing and ethical frameworks before commercial viability."
+          }
+        },
+        {
+          "chat_id": "x467je85i",
+          "title": "A wearable Brain-Computer Inte...",
+          "type": "analysis",
+          "created_at": "2026-04-03T10:05:56.308Z",
+          "updated_at": "2026-04-03T10:14:35.034Z",
+          "revisions": [
+            {
+              "revision_id": "5x0oevmi7",
+              "version_number": 1,
+              "created_at": "2026-04-03T10:14:35.034Z",
+              "user_input": "escription: A device that reads human thoughts and converts them into text instantly.  Target Users: Everyone.  Problem: People cannot directly share thoughts.  Solution: Brain-reading wearable device.",
+              "ai_response": "{\"idea_summary\":\"A wearable Brain-Computer Interface (BCI) that utilizes EEG or fNIRS sensors to translate neural patterns into text in real-time.\",\"viability_score\":42,\"market_demand\":\"High\",\"risk_level\":\"High\",\"scalability\":\"Medium\",\"monetization_potential\":\"High\",\"swot_analysis\":{\"strengths\":[\"Revolutionary communication speed\",\"Life-changing for speech-impaired users\",\"Hands-free interface potential\"],\"weaknesses\":[\"High signal-to-noise ratio in non-invasive sensors\",\"Extreme R&D costs\",\"Processing latency issues\"],\"opportunities\":[\"Integration with AR/VR systems\",\"Medical rehabilitation market\",\"Next-gen gaming controllers\"],\"threats\":[\"Strict data privacy regulations\",\"Competition from Neuralink/Synchron\",\"Public fear of mind-reading tech\"]},\"target_audience\":[\"Individuals with ALS or Paralysis\",\"High-performance specialized professionals\",\"Early adopter tech enthusiasts\",\"Gamers\"],\"market_insight\":\"While consumer interest is peak, the current technical ceiling for non-invasive BCI remains low; accuracy is the primary barrier to mass adoption.\",\"competitor_insight\":\"Most competitors are divided between medical implants (high accuracy, high risk) and simple meditation headbands (low accuracy, low risk).\",\"revenue_model\":[\"Premium Hardware Sales\",\"Neural-Processing SaaS Subscription\",\"Developer API Licensing\"],\"key_risks\":[\"Technological feasibility of 'thought-to-text' without surgery\",\"Severe privacy and ethical concerns regarding data 'hacking'\",\"Lengthy FDA or regulatory approval cycles\"],\"improvement_suggestions\":[\"Focus initially on assistive technology for the non-verbal\",\"Implement a 'Mental Gate' trigger to prevent accidental sharing\",\"Use Large Language Models to predict and refine noisy neural signals\"],\"improved_idea\":\"A specialized BCI headband for patients with Motor Neuron Disease that uses AI-predictive text to enable high-speed communication, eventually scaling to consumer productivity.\",\"final_verdict\":\"A high-risk 'Moonshot' project. It is currently more of a research endeavor than a retail-ready startup, but it holds trillion-dollar potential if technical barriers are solved.\"}",
+              "structured_output": {
+                "idea_summary": "A wearable Brain-Computer Interface (BCI) that utilizes EEG or fNIRS sensors to translate neural patterns into text in real-time.",
+                "viability_score": 42,
+                "market_demand": "High",
+                "risk_level": "High",
+                "scalability": "Medium",
+                "monetization_potential": "High",
+                "swot_analysis": {
+                  "strengths": [
+                    "Revolutionary communication speed",
+                    "Life-changing for speech-impaired users",
+                    "Hands-free interface potential"
+                  ],
+                  "weaknesses": [
+                    "High signal-to-noise ratio in non-invasive sensors",
+                    "Extreme R&D costs",
+                    "Processing latency issues"
+                  ],
+                  "opportunities": [
+                    "Integration with AR/VR systems",
+                    "Medical rehabilitation market",
+                    "Next-gen gaming controllers"
+                  ],
+                  "threats": [
+                    "Strict data privacy regulations",
+                    "Competition from Neuralink/Synchron",
+                    "Public fear of mind-reading tech"
+                  ]
+                },
+                "target_audience": [
+                  "Individuals with ALS or Paralysis",
+                  "High-performance specialized professionals",
+                  "Early adopter tech enthusiasts",
+                  "Gamers"
+                ],
+                "market_insight": "While consumer interest is peak, the current technical ceiling for non-invasive BCI remains low; accuracy is the primary barrier to mass adoption.",
+                "competitor_insight": "Most competitors are divided between medical implants (high accuracy, high risk) and simple meditation headbands (low accuracy, low risk).",
+                "revenue_model": [
+                  "Premium Hardware Sales",
+                  "Neural-Processing SaaS Subscription",
+                  "Developer API Licensing"
+                ],
+                "key_risks": [
+                  "Technological feasibility of 'thought-to-text' without surgery",
+                  "Severe privacy and ethical concerns regarding data 'hacking'",
+                  "Lengthy FDA or regulatory approval cycles"
+                ],
+                "improvement_suggestions": [
+                  "Focus initially on assistive technology for the non-verbal",
+                  "Implement a 'Mental Gate' trigger to prevent accidental sharing",
+                  "Use Large Language Models to predict and refine noisy neural signals"
+                ],
+                "improved_idea": "A specialized BCI headband for patients with Motor Neuron Disease that uses AI-predictive text to enable high-speed communication, eventually scaling to consumer productivity.",
+                "final_verdict": "A high-risk 'Moonshot' project. It is currently more of a research endeavor than a retail-ready startup, but it holds trillion-dollar potential if technical barriers are solved."
+              },
+              "summary_label": "Risk Mitigation"
+            }
+          ],
+          "last_analysis_result": {
+            "idea_summary": "A wearable Brain-Computer Interface (BCI) that utilizes EEG or fNIRS sensors to translate neural patterns into text in real-time.",
+            "viability_score": 42,
+            "market_demand": "High",
+            "risk_level": "High",
+            "scalability": "Medium",
+            "monetization_potential": "High",
+            "swot_analysis": {
+              "strengths": [
+                "Revolutionary communication speed",
+                "Life-changing for speech-impaired users",
+                "Hands-free interface potential"
+              ],
+              "weaknesses": [
+                "High signal-to-noise ratio in non-invasive sensors",
+                "Extreme R&D costs",
+                "Processing latency issues"
+              ],
+              "opportunities": [
+                "Integration with AR/VR systems",
+                "Medical rehabilitation market",
+                "Next-gen gaming controllers"
+              ],
+              "threats": [
+                "Strict data privacy regulations",
+                "Competition from Neuralink/Synchron",
+                "Public fear of mind-reading tech"
+              ]
+            },
+            "target_audience": [
+              "Individuals with ALS or Paralysis",
+              "High-performance specialized professionals",
+              "Early adopter tech enthusiasts",
+              "Gamers"
+            ],
+            "market_insight": "While consumer interest is peak, the current technical ceiling for non-invasive BCI remains low; accuracy is the primary barrier to mass adoption.",
+            "competitor_insight": "Most competitors are divided between medical implants (high accuracy, high risk) and simple meditation headbands (low accuracy, low risk).",
+            "revenue_model": [
+              "Premium Hardware Sales",
+              "Neural-Processing SaaS Subscription",
+              "Developer API Licensing"
+            ],
+            "key_risks": [
+              "Technological feasibility of 'thought-to-text' without surgery",
+              "Severe privacy and ethical concerns regarding data 'hacking'",
+              "Lengthy FDA or regulatory approval cycles"
+            ],
+            "improvement_suggestions": [
+              "Focus initially on assistive technology for the non-verbal",
+              "Implement a 'Mental Gate' trigger to prevent accidental sharing",
+              "Use Large Language Models to predict and refine noisy neural signals"
+            ],
+            "improved_idea": "A specialized BCI headband for patients with Motor Neuron Disease that uses AI-predictive text to enable high-speed communication, eventually scaling to consumer productivity.",
+            "final_verdict": "A high-risk 'Moonshot' project. It is currently more of a research endeavor than a retail-ready startup, but it holds trillion-dollar potential if technical barriers are solved."
+          }
+        }
+      ]
+    }
+  ]
+}
